@@ -1,0 +1,304 @@
+{
+  "email": [
+    {
+      "user": "yash",
+      "data": [
+        {
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Which of these countries is NOT a part of the Asian continent?",
+          "correct_answer": "Suriname",
+          "incorrect_answers": [
+            "Georgia",
+            "Russia",
+            "Singapore"
+          ],
+          "id": 1,
+          "options": [
+            "Georgia",
+            "Russia",
+            "Singapore",
+            "Suriname"
+          ]
+        },
+        {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Who was the original drummer for The Beatles?",
+          "correct_answer": "Tommy Moore",
+          "incorrect_answers": [
+            "Ringo Starr",
+            "Stuart Sutcliffe",
+            "Pete Best"
+          ],
+          "id": 2,
+          "options": [
+            "Ringo Starr",
+            "Stuart Sutcliffe",
+            "Pete Best",
+            "Tommy Moore"
+          ]
+        },
+        {
+          "category": "Entertainment: Television",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Who is the star of the AMC series Breaking Bad?",
+          "correct_answer": "Walter White",
+          "incorrect_answers": [
+            "Saul Goodman",
+            "Jesse Pinkman",
+            "Skyler White"
+          ],
+          "id": 3,
+          "options": [
+            "Saul Goodman",
+            "Jesse Pinkman",
+            "Skyler White",
+            "Walter White"
+          ]
+        },
+        {
+          "category": "History",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Adolf Hitler was born on which date?",
+          "correct_answer": "April 20, 1889",
+          "incorrect_answers": [
+            "June 12, 1889",
+            "February 6, 1889",
+            "April 16, 1889"
+          ],
+          "id": 4,
+          "options": [
+            "June 12, 1889",
+            "February 6, 1889",
+            "April 16, 1889",
+            "April 20, 1889"
+          ]
+        },
+        {
+          "category": "Entertainment: Japanese Anime & Manga",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which of the following manga have the most tankouban volumes?",
+          "correct_answer": "Golgo 13",
+          "incorrect_answers": [
+            "JoJo&#039;s Bizarre Adventure",
+            "Detective Conan",
+            "One Piece"
+          ],
+          "id": 5,
+          "options": [
+            "JoJo&#039;s Bizarre Adventure",
+            "Detective Conan",
+            "One Piece",
+            "Golgo 13"
+          ]
+        },
+        {
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the Polish city known to Germans as Danzig?",
+          "correct_answer": "Gdańsk",
+          "incorrect_answers": [
+            "Warsaw",
+            "Zakopane",
+            "Poznań"
+          ],
+          "id": 6,
+          "options": [
+            "Warsaw",
+            "Zakopane",
+            "Poznań",
+            "Gdańsk"
+          ]
+        },
+        {
+          "category": "Entertainment: Film",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "What city did the monster attack in the film, &quot;Cloverfield&quot;?",
+          "correct_answer": "New York, New York",
+          "incorrect_answers": [
+            "Las Vegas, Nevada",
+            "Chicago, Illinois",
+            "Orlando, Florida"
+          ],
+          "id": 7,
+          "options": [
+            "Las Vegas, Nevada",
+            "Chicago, Illinois",
+            "Orlando, Florida",
+            "New York, New York"
+          ]
+        },
+        {
+          "category": "Geography",
+          "type": "boolean",
+          "difficulty": "medium",
+          "question": "Norway has a larger land area than Sweden.",
+          "correct_answer": "False",
+          "incorrect_answers": [
+            "True"
+          ],
+          "id": 8,
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "category": "Entertainment: Music",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "When was Gangnam Style uploaded to YouTube?",
+          "correct_answer": "2012",
+          "incorrect_answers": [
+            "2013",
+            "2014",
+            "2011"
+          ],
+          "id": 9,
+          "options": [
+            "2013",
+            "2014",
+            "2011",
+            "2012"
+          ]
+        },
+        {
+          "category": "History",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "In World War I, what was the name of the alliance of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria?",
+          "correct_answer": "The Central Powers",
+          "incorrect_answers": [
+            "The Axis Powers",
+            "The Federation of Empires",
+            "Authoritarian Alliance"
+          ],
+          "id": 10,
+          "options": [
+            "The Axis Powers",
+            "The Federation of Empires",
+            "Authoritarian Alliance",
+            "The Central Powers"
+          ]
+        },
+        {
+          "category": "Science: Mathematics",
+          "type": "boolean",
+          "difficulty": "easy",
+          "question": "The sum of any two odd integers is odd.",
+          "correct_answer": "False",
+          "incorrect_answers": [
+            "True"
+          ],
+          "id": 11,
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "category": "Entertainment: Film",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+          "correct_answer": "Leonard Nimoy",
+          "incorrect_answers": [
+            "William Shatner",
+            "George Takei",
+            "James Doohan"
+          ],
+          "id": 12,
+          "options": [
+            "William Shatner",
+            "George Takei",
+            "James Doohan",
+            "Leonard Nimoy"
+          ]
+        },
+        {
+          "category": "Entertainment: Film",
+          "type": "multiple",
+          "difficulty": "medium",
+          "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+          "correct_answer": "San Francisco",
+          "incorrect_answers": [
+            "Los Angeles",
+            "Sacramento",
+            "San Jose"
+          ],
+          "id": 13,
+          "options": [
+            "Los Angeles",
+            "Sacramento",
+            "San Jose",
+            "San Francisco"
+          ]
+        },
+        {
+          "category": "Entertainment: Television",
+          "type": "multiple",
+          "difficulty": "hard",
+          "question": "Who was the winner of &quot;Big Brother&quot; Season 10?",
+          "correct_answer": "Dan Gheesling",
+          "incorrect_answers": [
+            "Bryce Kranyik",
+            "Ryan Sutfin",
+            "Chris Mundorf"
+          ],
+          "id": 14,
+          "options": [
+            "Bryce Kranyik",
+            "Ryan Sutfin",
+            "Chris Mundorf",
+            "Dan Gheesling"
+          ]
+        },
+        {
+          "category": "Entertainment: Video Games",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Rincewind from the 1995 Discworld game was voiced by which member of Monty Python?",
+          "correct_answer": "Eric Idle",
+          "incorrect_answers": [
+            "John Cleese",
+            "Terry Gilliam",
+            "Michael Palin"
+          ],
+          "id": 15,
+          "options": [
+            "John Cleese",
+            "Terry Gilliam",
+            "Michael Palin",
+            "Eric Idle"
+          ]
+        }
+      ],
+      "selectedOptions": [
+        "Russia",
+        "Stuart Sutcliffe",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "id": 1
+    }
+  ]
+}
